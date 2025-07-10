@@ -1,1 +1,3 @@
-# tic-tac-toe-score-tracker-624406
+# Project Repository
+
+This is the initial README file for the project.
